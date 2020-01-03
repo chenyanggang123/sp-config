@@ -4,7 +4,7 @@ spring:
   cloud:
     config:
       override-none: true   
-      
+#练习      
       
 server:
   port:  8001 
