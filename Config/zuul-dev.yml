@@ -21,6 +21,7 @@ eureka:
 zuul:
   retryable: true
     
+    
 ribbon:
   ConnectTimeout: 1000
   ReadTimeout: 1000
